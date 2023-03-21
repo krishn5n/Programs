@@ -38,5 +38,3 @@ int main(){
     }
     return 0;
 }
-
-//row,column,matrix,i,j,t,number,transpose l,m,f,n
